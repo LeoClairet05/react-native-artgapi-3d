@@ -1,12 +1,6 @@
 <img src="http://www.dropbox.com/s/gku8mlgnmzqk6n6/3dcube_test.png?raw=1" width="150px" />
 
-# react-native-3dcube-navigation
-
-### Installation
-
-```bash
-$ npm i react-native-3dcube-navigation --save
-```
+# react-native-3dcube-navigation-artgapi
 
 ### Demo
 
